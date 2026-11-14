@@ -1,6 +1,5 @@
 # Contributor Pilot Nodes
 
-MyZubster can turn a verified contribution into the beginning of an independent contributor pilot, without treating a bounty, profile or AI-generated description as proof of skill.
 
 The pathway is:
 

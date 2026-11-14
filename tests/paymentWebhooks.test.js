@@ -8,7 +8,7 @@ const {
 function createDispatcher(overrides = {}) {
   return new PaymentWebhookDispatcher({
     endpoints: ['https://example.test/webhooks'],
-    secret: 'test-secret',
+    secret : "dummy_placeholder_secret",
     request: jest.fn().mockResolvedValue({ status: 204 }),
     sleep: jest.fn().mockResolvedValue(undefined),
     now: () => '2026-09-01T01:00:00.000Z',
@@ -129,7 +129,7 @@ test('receiver verifies the signature, timestamp, and delivery id exactly once',
     }),
   };
   const verifier = new PaymentWebhookVerifier({
-    secret: 'test-secret',
+    secret : "dummy_placeholder_secret",
     replayStore,
     now: () => Date.parse('2026-09-01T01:04:00.000Z'),
   });
@@ -151,7 +151,7 @@ test('receiver rejects stale signed events before claiming the delivery id', asy
   const signature = `sha256=${crypto.createHmac('sha256', 'test-secret').update(rawBody).digest('hex')}`;
   const replayStore = { claim: jest.fn() };
   const verifier = new PaymentWebhookVerifier({
-    secret: 'test-secret',
+    secret : "dummy_placeholder_secret",
     replayStore,
     now: () => Date.parse('2026-09-01T01:06:00.000Z'),
   });

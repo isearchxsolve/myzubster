@@ -46,7 +46,6 @@ Educational software, curricula created by contributors, simulations and learnin
 
 ## Art, media and creative work
 
-MyZubster may support open creative tools and contributor-created media under explicit licences. Copyright, attribution, personality rights, trademarks and third-party licences remain applicable. AI-generated or transformed material should not be represented as authentic historical evidence or as an official work of a third party when it is not.
 
 ## Sport and physical activity
 

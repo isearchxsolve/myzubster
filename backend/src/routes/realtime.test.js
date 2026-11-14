@@ -8,7 +8,7 @@ const {
 } = require("../services/realtimeObservability");
 
 describe("realtime operational routes", () => {
-  const secret = "test-realtime-admin-secret";
+  const secret = "dummy_placeholder_secret";
   let app;
 
   beforeEach(() => {

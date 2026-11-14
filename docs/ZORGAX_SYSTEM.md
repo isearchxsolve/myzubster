@@ -10,7 +10,6 @@ This document connects the main MyZubster automation and storytelling layers int
 - adoption monitoring;
 - technical maintenance and error detection;
 - Canva visual production;
-- AI-generated narrative artwork;
 - interactive Zorgax Chronicle comics;
 - GitHub versioning and draft pull requests;
 - integration with `myzubster.com`.
@@ -218,7 +217,6 @@ Best suited for:
 - backgrounds;
 - visual storytelling that does not claim to be documentary evidence.
 
-AI-generated imagery must never be used as proof of a real event.
 
 ## Selection rule
 

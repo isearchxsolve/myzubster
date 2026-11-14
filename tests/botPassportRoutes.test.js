@@ -49,7 +49,7 @@ describe('bot passport routes', () => {
         name: 'Evidence bot',
         softwareVersion: '1.0.0',
         releaseHash: HASH,
-        apiKey: 'never-store-this'
+        apiKey : "dummy_placeholder_secret"
       });
 
     expect(response.status).toBe(400);

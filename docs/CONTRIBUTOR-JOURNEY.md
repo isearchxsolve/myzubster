@@ -28,7 +28,6 @@ Do not assume that entering a GitHub username in a field proves ownership of tha
 There are two different results:
 
 - **Text character proposal:** If the project bot has posted a `Zorgax Character Draft` in your own issue or PR, inspect the alias and source. To opt in, reply **from the same GitHub account**, in that thread, with exactly `ACCEPT CHARACTER`. `SKIP CHARACTER` declines. The automated record is a **proposal** in the [Character Registry](https://github.com/MyZubster-Ecosystem/myzubster/issues/617); it does not automatically draw or publish a comic avatar.
-- **Visual/comic character:** Follow [Character Registry issue #617](https://github.com/MyZubster-Ecosystem/myzubster/issues/617). In your fork, propose a manifest and an original visual (or a text-only character), link your public contribution and open a PR for review. Identify AI-generated art as such and include rights/provenance information. You can use a public alias; no legal name, health information or personal documents are required.
 
 A character is optional. Being included in a story does not imply a verified legal identity, payment, project ownership or partner endorsement. Only approved work should be described as completed.
 

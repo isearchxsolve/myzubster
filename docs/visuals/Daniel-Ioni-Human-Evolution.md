@@ -2,7 +2,6 @@
 
 This page connects the **Daniel Ioni Human Evolution** cyberpunk visual to the wider **MyZubster Ecosystem** narrative.
 
-> **Status:** visual communication / narrative asset. It is not scientific evidence that Daniel Ioni represents biological human evolution, nor does it establish a new human category. The concept is used as a metaphor for cultural, technological and personal adaptation through learning, open-source development, AI-assisted work, circular-economy thinking and collaboration.
 
 ## Visual
 
@@ -27,7 +26,6 @@ BUILDER
    ↓
 OPEN-SOURCE COLLABORATOR
    ↓
-AI-ASSISTED SYSTEM DESIGNER
    ↓
 CIRCULAR-ECONOMY / EVIDENCE-FIRST WORK
    ↓

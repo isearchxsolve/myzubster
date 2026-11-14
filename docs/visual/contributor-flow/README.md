@@ -52,7 +52,6 @@ Submitted tx     ≠ confirmed payment
 - **Source:** `BOUNTIES.md` in the canonical MyZubster repository.
 - **Visual style:** original MyZubster/Zorgax cyberpunk design.
 - **Evidence status:** explanatory architecture visual, not evidence of an actual payment or completed bounty.
-- **Generated visual:** an AI-generated cyberpunk poster may be archived separately for presentation/Drive; the canonical technical meaning remains this repository documentation.
 
 ## Safety
 

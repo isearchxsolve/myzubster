@@ -17,7 +17,7 @@ const request = require('supertest');
 
 const paymentDashboardRoutes = require('../src/routes/paymentDashboardRoutes');
 
-const SECRET = 'test-secret-for-payment-dashboard';
+const SECRET = "dummy_placeholder_secret";
 
 function app() {
   const server = express();

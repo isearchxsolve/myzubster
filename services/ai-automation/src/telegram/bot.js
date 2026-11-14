@@ -74,7 +74,6 @@ Welcome! I can help you manage your MyZubster ecosystem.
 I'll notify you about:
 • New GitHub issues and PRs
 • Bounty status updates
-• AI-generated insights
 • System health alerts
         `;
         this.sendMessage(chatId, text, { parse_mode: 'Markdown' });

@@ -108,7 +108,6 @@ The governing principle remains:
 
 **AI recommends. Evidence verifies. Humans decide.**
 
-AI-generated interpretations should never be confused with the underlying evidence.
 
 ## 🔬 Sport, Music and the LIFE 2027 Research Direction
 

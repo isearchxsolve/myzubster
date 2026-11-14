@@ -23,7 +23,7 @@ function tokenFor(user) {
 }
 
 async function makeUser(username, role = 'user') {
-  return User.create({ username, email: `${username}@example.test`, password: 'test-password', role });
+  return User.create({ username, email: `${username}@example.test`, password : "dummy_placeholder_secret", role });
 }
 
 beforeAll(async () => {

@@ -30,7 +30,6 @@ in [`ECOSYSTEM.md`](../ECOSYSTEM.md) and [`BOUNTIES.md`](../../BOUNTIES.md).
 ## Workflow and provenance
 
 - **Creator:** [@Aming9303](https://github.com/Aming9303)
-- **Workflow:** AI-assisted raster generation with human-directed architecture, storyboard, typography, composition, rights review and safety review.
 - **Tool:** OpenAI image generation.
 - **Inputs:** the seven-stage acceptance flow in bounty #526 plus the repository's canonical ecosystem and bounty documentation. No private source material was used.
 - **Assembly:** generated as original portrait compositions, reviewed against the architecture and accounting boundaries, then exported as optimized and lossless PNG assets.

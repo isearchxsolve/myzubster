@@ -13,7 +13,6 @@ We expect contributors to:
 - respect privacy and a contributor's choice to use a public alias;
 - acknowledge uncertainty and correct mistakes when better evidence appears;
 - respect copyright, licensing, consent and repository boundaries;
-- keep fictional/AI-generated material distinguishable from factual evidence.
 
 ## Unacceptable behavior
 

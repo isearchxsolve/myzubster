@@ -241,7 +241,6 @@ Canva is primarily used for:
 
 If an accessible MyZubster Brand Kit exists, it may be used after verification.
 
-## AI-generated images
 
 Image generation can be used for original narrative material such as:
 
@@ -253,7 +252,6 @@ Image generation can be used for original narrative material such as:
 - atmospheric backgrounds;
 - illustrative panels.
 
-AI-generated imagery must never be presented as evidence of a real event.
 
 When an AI image could be mistaken for documentary material, the interface should clearly identify it as a narrative illustration.
 
@@ -269,7 +267,6 @@ Recommended types:
 evidence
 official
 canva-generated
-ai-generated
 third-party-public
 ```
 
@@ -278,7 +275,6 @@ Example `assets/manifest.json` entry:
 ```json
 {
   "file": "panel-03.webp",
-  "type": "ai-generated",
   "purpose": "narrative",
   "evidence": false,
   "panel": 3
@@ -437,7 +433,6 @@ The pull request should document:
 - Chronicle category;
 - files created;
 - Canva assets;
-- AI-generated assets;
 - provenance manifest;
 - unverified claims intentionally excluded;
 - rights/license notes;
@@ -569,7 +564,6 @@ A Chronicle must not:
 - describe a PR as a completed deployment;
 - describe MYZ as external settlement by default;
 - describe a merge as proof of payment;
-- use AI-generated images as documentary evidence;
 - use biometric features to identify people;
 - claim unreleased roadmap features as production-ready.
 

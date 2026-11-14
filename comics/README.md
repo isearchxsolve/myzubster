@@ -56,9 +56,7 @@ A bounty may request different licensing terms, but those terms must be stated i
 
 Contributors remain responsible for ensuring that their submission does not infringe third-party copyrights, trademarks, publicity rights or other rights.
 
-## AI-assisted work
 
-AI-assisted creative work is allowed only when the bounty permits it. Contributors must disclose material AI assistance and remain responsible for rights, originality, consistency and final quality. Do not submit prompts or outputs designed to imitate a living artist or protected franchise in a way that creates avoidable infringement risk.
 
 ## Quality review
 

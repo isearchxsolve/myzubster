@@ -22,7 +22,6 @@ MyZubster is an ecosystem platform for plants, pets, and smart gardening. The Pl
 | **Cryptocurrency Payments & Escrow** | Payments for services, seeds, and contributions are conducted in Monero (XMR). Transactions are secured through an escrow mechanism to protect both buyers and sellers |
 | **AI Analysis & Community Verification** | Plant and pet data submitted by users undergoes AI-powered analysis and community voting verification to ensure quality and accuracy |
 
-The Platform operates on a user-generated data model. We do not guarantee the accuracy, completeness, or usefulness of any user-submitted content, including AI-generated insights or community votes.
 
 ## 3. Registration
 
@@ -128,7 +127,6 @@ We implement technical and organizational measures to protect your data, includi
 
 ### Disclaimer of Warranties
 
-THE PLATFORM IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE PLATFORM'S OPERATION, ACCURACY, OR RELIABILITY. THIS INCLUDES AI-GENERATED INSIGHTS, COMMUNITY VOTING RESULTS, ARDUINO SENSOR CALIBRATIONS, AND SEED EXCHANGE MATCHES.
 
 ### Limitation of Liability
 

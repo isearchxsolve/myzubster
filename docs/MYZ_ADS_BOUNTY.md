@@ -64,7 +64,6 @@ Rewards must not be granted for:
 - impersonation, spam, unsolicited mass messaging or platform-policy violations;
 - invented partnerships, funding, adoption, metrics, technical states, MYZ value or endorsements;
 - publishing secrets, private keys, seed phrases, credentials or unnecessary personal data;
-- presenting concept or AI-generated visuals as operational evidence;
 - claiming MYZ has a cash, market, redemption or investment value not supported by canonical documentation.
 
 A verifier may reject, reduce or revoke a reward when evidence is manipulated, materially incomplete, duplicated or later shown to be false.

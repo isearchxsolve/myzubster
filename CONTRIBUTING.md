@@ -122,7 +122,6 @@ A contributor may optionally create an original character/avatar representing th
 
 Start here: https://github.com/MyZubster-Ecosystem/myzubster/issues/617
 
-Character participation is voluntary. A character is not KYC and does not prove employment, payment, partnership or ownership. AI-generated visual assets must be labelled as AI-generated and are not evidence of a contribution.
 
 ## Evidence-first contribution model
 

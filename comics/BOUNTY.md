@@ -55,7 +55,6 @@ Unless a bounty explicitly states different terms before work begins, verified/r
 
 ## AI disclosure
 
-When AI-assisted work is allowed, the contributor must disclose material AI assistance. The contributor remains responsible for the final work, rights clearance and compliance with the brief.
 
 ## Reward accounting
 

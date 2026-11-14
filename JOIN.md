@@ -22,7 +22,6 @@ It explains the path from discovery to mission, `CLAIM` / PR, review, optional c
 Pick an issue, reproduce a bug, improve tests, implement a focused change, or review a PR.
 
 ### I am a designer / illustrator / storyteller
-Contribute original visual documentation, accessibility improvements, or a clearly labelled narrative/AI-assisted asset. Fiction must remain distinguishable from evidence.
 
 ### I am a photographer / mapper / field contributor
 Submit only public or explicitly authorized observations and media using the documented evidence/privacy rules.

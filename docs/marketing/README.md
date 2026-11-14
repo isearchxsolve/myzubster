@@ -28,7 +28,6 @@ Preferred promotional subjects include:
 - contributor opportunities and bounties;
 - public documentation, GitHub releases and verified project milestones.
 
-Concept visuals may be used for storytelling only when clearly marked as illustrative, AI-generated or `CONCEPT-NOT-EVIDENCE` where applicable.
 
 ## Channels
 
@@ -105,7 +104,6 @@ Invite contributors, testers and creators. Link to the relevant public issue, bo
 
 ### Storytelling / concept
 
-Cyberpunk, comic or AI-generated visuals can be used to communicate vision and worldbuilding, but must not be used as evidence that a system, partnership, transaction, integration or deployment exists.
 
 ## Canonical vs concept assets
 
@@ -113,7 +111,6 @@ Before publication classify each asset:
 
 - **CANONICAL / VERIFIED** — supported by current code, release, runtime or documentation evidence.
 - **MARKETING / EXPLANATORY** — designed for communication but based on verified facts.
-- **CONCEPT-NOT-EVIDENCE** — illustrative, future-facing, fictional or AI-generated; must carry a clear disclaimer.
 
 Never remove the concept boundary merely to make an advertisement look stronger.
 

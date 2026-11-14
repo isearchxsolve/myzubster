@@ -7,7 +7,6 @@
 
 ## What happened
 
-During an in-person visit at Urban Lab, Daniel demonstrated how an AI-assisted MyZubster workflow can support a real technical question. The immediate problem was a KuKirin G2 Max that would not power on.
 
 The assistance did not claim to identify the failed component remotely. Instead, it proposed an ordered diagnostic path intended to reduce unnecessary replacement of parts:
 

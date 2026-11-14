@@ -46,7 +46,6 @@ For every new visual, record:
 5. destination repository;
 6. whether a Drive archive copy exists.
 
-Do not label AI-generated narrative art, mock UI or documentation diagrams as photographic or real-world evidence.
 
 ## Drive archive
 

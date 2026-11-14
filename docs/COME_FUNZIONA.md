@@ -125,7 +125,6 @@ Gli eventi del progetto possono diventare capitoli visuali del fumetto MyZubster
 Esistono due classi principali:
 
 - **FOTO REALE / EVIDENCE** — materiale reale collegato a record verificabili;
-- **ILLUSTRAZIONE / CONCEPT** — storytelling, cyberpunk o AI-generated, sempre separato dalla prova.
 
 Principio:
 

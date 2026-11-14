@@ -74,7 +74,6 @@ A GitHub alias or character is not KYC and does not establish a private/legal id
 ## Evidence rules
 
 - A merge does not by itself prove payment, employment, partnership or production readiness.
-- AI-generated visual/narrative material must remain distinguishable from real-world evidence.
 - Do not publish credentials, sensitive personal data, private partner correspondence or real offensive-security targets.
 - External brands/tools referenced by a character do not imply affiliation unless independently documented.
 

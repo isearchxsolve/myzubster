@@ -33,7 +33,7 @@ function stripeSignature(payload, timestamp = Math.floor(Date.now() / 1000)) {
 beforeAll(async () => {
   mongo = await MongoMemoryReplSet.create({ replSet: { count: 1 } });
   await mongoose.connect(mongo.getUri());
-  seller = await User.create({ username:'free-seller', email:'seller-free@example.test', password:'test-password' });
+  seller = await User.create({ username:'free-seller', email:'seller-free@example.test', password : "dummy_placeholder_secret" });
 }, 30000);
 
 afterAll(async () => { await mongoose.disconnect(); if (mongo) await mongo.stop(); }, 30000);

@@ -26,7 +26,6 @@ MyZubster processes the following categories of personal data, including special
 | **NFC & Biometric (Pet)** | NFC tag UID, pet biometric templates (if enrolled via NFC tag + camera), RFID scan timestamps | Explicit consent (6.1.a); Vital interests (6.1.d) | **Yes** — biometric data under Art. 9(1) |
 | **IoT / Arduino Sensors** | Soil moisture, temperature, humidity, light levels, pump activation logs, device IDs | Contract (6.1.b); Consent (6.1.a) | No (unless health-adjacent) |
 | **Content / Community** | Plant IDs, pet profiles, map markers, seed-exchange listings, community votes, AI verification scores, chat logs | Contract (6.1.b); Legitimate interest (6.1.f) | No |
-| **Derived / Analytics** | AI-generated growth predictions, fraud scores, reputation tokens, aggregated biodiversity metrics | Legitimate interest (6.1.f); Consent (6.1.a) | No |
 
 **Sensitive data definition under this form:** Geolocation data, NFC pet biometric templates, and any data combined with the above to identify a natural person’s private life or health-adjacent habits are treated as Sensitive Personal Data.
 

@@ -11,7 +11,7 @@ describe('bot passport privacy boundary', () => {
       name: 'Review bot',
       softwareVersion: '1.0.0',
       releaseHash: HASH,
-      apiKey: 'must-not-be-stored'
+      apiKey : "dummy_placeholder_secret"
     })).toThrow(/forbidden field/i);
   });
 

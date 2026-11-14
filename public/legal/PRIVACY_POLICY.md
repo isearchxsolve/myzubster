@@ -29,7 +29,6 @@ We collect and process the following categories of personal data:
 |----------|---------------|---------|
 | **Identity Data** | Username, email address, wallet addresses (XMR), Tari NFT wallet addresses | Account creation, authentication, and payments |
 | **IoT & Sensor Data** | NFC pet tag IDs, Arduino sensor readings (soil moisture, temperature, humidity, light), timestamps, geolocation (when enabled) | Smart garden monitoring and pet tracking features |
-| **Content Data** | Photos of plants/pets, map markers, seed exchange listings, community votes, AI-generated analysis | Service functionality and community features |
 | **Technical Data** | IP address, browser type, device identifiers, API logs, session tokens | Security, analytics, and service optimization |
 | **Payment Data** | Monero transaction hashes, escrow status, payout addresses | Payment processing and dispute resolution |
 | **Communication Data** | Support tickets, community messages, feedback | Customer support and service improvement |

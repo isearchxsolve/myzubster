@@ -16,7 +16,6 @@ You retain all ownership rights to content you create, upload, or submit to the 
 - NFC pet tag data, Arduino sensor readings, and smart garden configurations;
 - Global Plant Map markers, annotations, and geolocation data;
 - Seed Exchange P2P listings, descriptions, and trade data;
-- AI-generated analysis results and community verification votes.
 
 #### 1.2 License Grant
 By submitting User Content, you grant MyZubster a worldwide, non-exclusive, royalty-free, transferable license to use, reproduce, distribute, create derivative works from, display, and perform such content for the purposes of:
